@@ -1,0 +1,7 @@
+/* alert */
+.alert-box{
+    position: fixed;
+    z-index: 2;
+}.loader{
+    position: fixed;
+}
